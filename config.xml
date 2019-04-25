@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+<widget id="com.infitt.agarampayilvomvaarir" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Agaram Payilvom Vaarir </name>
     <description>
-     Mobile App Training
+     பழமொழிகளையும் அதன் பொருளையும் புரிந்துக் கொள்ள உதவும் செயலியாகும். 
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
